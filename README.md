@@ -2,7 +2,6 @@ Vivien
 # jrdevopsrepo
 Garry
 edit by vivien
-edit by vivien-2
-Conflict Test: deleted Vivian 3
+edit by vivien and Conflict Test
 
 Harry has joined the repo!
