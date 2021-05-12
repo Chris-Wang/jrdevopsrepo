@@ -1,12 +1,11 @@
 Vivien
 # jrdevopsrepo
-Garry
+
+Harry adds this line to test the merge conflict
 edit by vivien
+Harry adds the second line to test the merge conflict
+edit by Harry(fourth conflict attempt)
+edit by vivien-3
 
-edit by vivien-2
 
-test pull request review rule
-
-edit by vivien and Conflict Test
-
-Harry has joined the repo!
+harry has joined the repo(third attempt for conflict)
